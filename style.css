@@ -1,0 +1,21 @@
+body {
+  background: url(./images/Future\ J.jpg);
+  background-size: cover;
+}
+
+#title {
+  display: flex;
+  justify-content: center;
+}
+
+#description {
+  display: flex;
+  justify-content: center;
+}
+
+#survey-form {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-left: auto;
+}
